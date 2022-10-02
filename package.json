@@ -1,6 +1,6 @@
 {
-  "homepage": "https://clxrityy.github.io/test-react",
-  "name": "test-react",
+  "homepage": "https://clxrity.xyz",
+  "name": "clxrity.xyz",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -42,3 +42,4 @@
     "gh-pages": "^4.0.0"
   }
 }
+
