@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+## additions starting (10/01/22)
+key.pem
+pem.pem

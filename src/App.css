@@ -1,3 +1,35 @@
+/*this part by qpi65*/
+h1{
+  color: #4b7d7c;
+  font-size: 60px;
+  font-weight: bold;
+  font-family: monospace;
+  letter-spacing: 7px;
+}
+h1 span{
+  transition: .5s horizontal
+}
+
+h1 span:hover {
+  cursor: pointer;
+}
+h1:hover span:nth-child(1){
+  margin-right: 5px
+}
+/* h1:hover span:nth-child(1):after{
+  content: "'";
+} */
+h1:hover span:nth-child(2){
+  margin-left: 0px
+}
+h1:hover span{
+  color: rgb(114, 201, 183);
+  text-shadow: 0 0 10px rgb(140, 240, 255),
+               0 0 20px rgb(124, 187, 255), 
+               0 0 40px rgb(109, 255, 199);
+}
+/*made with ❤, by qpi65*/
+
 .App {
   text-align: center;
 }
@@ -6,6 +38,13 @@
   height: 40vmin;
   pointer-events: none;
 }
+
+.body1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: rgb(205, 202, 202);
+  text-shadow: 0.5px 1px 0.025px rgb(113, 113, 113);
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -25,7 +64,15 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #6ec4c9;
+  text-decoration: none;
+}
+
+.App-link:hover {
+  text-decoration: double;
+  font-size: 105%;
+  transition: 500ms ease-out;
+  font-weight: bold;
 }
 
 @keyframes App-logo-spin {
