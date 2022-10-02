@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 =======
-import React from 'react';
 >>>>>>> e876468091844e16bffd66334f8efdecadf765c9
+import React from 'react';
 import './App.css';
 
 function App() {
