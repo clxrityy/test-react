@@ -71,7 +71,7 @@ h1:hover span{
 .App-link:hover {
   text-decoration: double;
   font-size: 105%;
-  transition: 300ms ease-out;
+  transition: 300 ms ease-out;
   font-weight: bold;
 }
 
