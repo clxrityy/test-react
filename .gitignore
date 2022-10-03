@@ -23,6 +23,11 @@ yarn-debug.log*
 yarn-error.log*
 
 
+<<<<<<< HEAD
+# test
+setupTests.js
+=======
 ## additions starting (10/01/22)
 key.pem
 pem.pem
+>>>>>>> e876468091844e16bffd66334f8efdecadf765c9

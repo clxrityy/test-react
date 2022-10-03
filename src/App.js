@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 
 function App() {
@@ -12,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://github.com/clxrityy/react-test"
+          href="https://github.com/clxrityy/test-react"
           target="_blank"
           rel="noopener noreferrer"
         >

@@ -1,6 +1,6 @@
 {
   "homepage": "https://clxrity.us",
-  "name": "clxrity.us",
+  "name": "clxrity",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -42,3 +42,4 @@
     "gh-pages": "^4.0.0"
   }
 }
+
