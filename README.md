@@ -1,2 +1,2 @@
 # test-react
-#### https://clxrity.us
+#### https://clxrityy.github.io/test-react/
