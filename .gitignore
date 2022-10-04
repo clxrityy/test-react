@@ -22,12 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# pem
+.pem
 
-<<<<<<< HEAD
 # test
 setupTests.js
-=======
-## additions starting (10/01/22)
-key.pem
-pem.pem
->>>>>>> e876468091844e16bffd66334f8efdecadf765c9
